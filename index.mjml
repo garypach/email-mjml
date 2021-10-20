@@ -1,0 +1,123 @@
+<mjml>
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="white" background-repeat="no-repeat" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" border="none" padding-bottom="30px" padding="0px 25px" src="https://global.tommy.com/tommy-global-images/about-us/_size_1404x766/corporate-responsibility-preview.png" target="_blank" title="" width="280px"></mj-image>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p style="line-height: 18px; margin: 10px 0; text-align: center;font-size:14px;color:black;font-family:'Times New Roman',Helvetica,Arial,sans-serif">MEN&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; WOMEN&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; KIDS &nbsp;&nbsp;&nbsp;| &nbsp; &nbsp; &nbsp; HOME &nbsp;&nbsp;&nbsp;| &nbsp; &nbsp; &nbsp; SALE</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="white" background-repeat="no-repeat" text-align="center" vertical-align="top">
+      <mj-column border-top="1px solid #E5E5E5" border-bottom="1px solid #E5E5E5">
+        <mj-text align="left" color="#00174F" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 25px"font-weight="700">
+          <p style="line-height: 18px; color:#00174F;margin: 10px 0; text-align: center;font-size:18px;font-family:'Times New Roman',Helvetica,Arial,sans-serif" >FREE SHIPPING OVER $100 AND FREE RETURNS</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column>
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 25px" src="https://media.tommy.com/us/static/images/scheduled_marketing/2021/10/20_Spl_Hero_mb.jpg" target="_blank" title="" width="780px" height="780px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="25px" padding="10px 25px">
+          <p style="line-height: 60px; text-align: center;  margin: 10px 0;font-size:42px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif"><b>NEW ARRIVALS</b></p>
+          <p style="line-height: 60px; text-align: center; margin: 0px 0;font-size:38px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif"><i>FOR HER</i></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column width="300px">
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="5px" padding-top="0px" padding="10px 25px">
+          <p style="line-height: 20px; text-align: center;  margin: 30px 0 0 0;font-size:14px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">WOOL TEDDY-COLLAR COAT</p>
+          <p style="text-align: center; margin: 10px 0;font-size:12px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">Transition between seasons elegantly with this one statement piece.</p>
+          <p style="text-align: center; margin: 10px 0;font-size:12px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif"><u>SHOP NOW</u></p>
+
+        </mj-text>
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 25px" src="https://shoptommy.scene7.com/is/image/ShopTommy/WW32294_PJA_FNT?wid=1500&hei=2000&fmt=jpeg&qlt=90%2C0&resMode=trilin&op_usm=0.8%2C1.0%2C6%2C0&iccEmbed=0" target="_blank" title="" width="257px" height="343px"></mj-image>
+      </mj-column>
+    </mj-section>
+      <mj-section background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column width="300px">
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="5px" padding-top="0px" padding="10px 25px">
+          <p style="line-height: 20px; text-align: center;  margin: 30px 0 0 0;font-size:14px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">SHEARLING MINI CROSSBODY BAG</p>
+          <p style="text-align: center; margin: 10px 0;font-size:12px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">this petite crossover adds a dash of character to all of your ensembles.</p>
+          <p style="text-align: center; margin: 10px 0;font-size:12px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif"><u>SHOP NOW</u></p>
+
+        </mj-text>
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 25px" src="https://shoptommy.scene7.com/is/image/ShopTommy/AW10493_TAG_FNT?wid=1500&hei=2000&fmt=jpeg&qlt=90%2C0&resMode=trilin&op_usm=0.8%2C1.0%2C6%2C0&iccEmbed=0" target="_blank" title="" width="257px" height="343px"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="5px" padding-top="0px" padding="10px 25px">
+          <p style="line-height: 20px; text-align: center;  margin: 50px 0 0 0;font-size:24px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">DESTINATION ANYWHERE:</p>
+          <p style="text-align: center; margin: 10px 0;font-size:16px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">Upgrade your adventures with our must-have travel accessories</p>
+          <p style="text-align: center; margin: 10px 0;font-size:14px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif"><u>SHOP NOW</u></p>
+
+        </mj-text>
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 25px" src="https://media.tommy.com/us/static/images/scheduled_marketing/2021/10/13_Spl_Split01_dt.jpg" target="_blank" title="" width="627px" height="373px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section  background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column>
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="45px 25px" src="https://i.ibb.co/z2VrzpB/hilgerclub.jpg" target="_blank" title="" width="530px" height="180px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section  background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column>
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="45px 25px" src="https://faceandbodyinc.com.au/wp-content/uploads/2021/06/afterpay-button-green-black-logo-860x298-1.png" target="_blank" title="" width="200px" height="70px"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="5px" padding-top="0px" padding="10px 25px">
+          <p style="line-height: 20px; text-align: center;  margin: 50px 0 0 0;font-size:24px;color:#000000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">You may also love...</p>
+        </mj-text>
+      </mj-column>
+      </mj-section>
+      <mj-section  background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding-bottom="40px" border-bottom="1px solid black">
+      <mj-column padding="0 5px">
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="45px 25px" src="https://shoptommy.scene7.com/is/image/ShopTommy/FW05948_BDS_FNT?wid=1500&hei=2000&fmt=jpeg&qlt=90%2C0&resMode=trilin&op_usm=0.8%2C1.0%2C6%2C0&iccEmbed=0" target="_blank" title="" width="150px" height="150px"></mj-image>
+      </mj-column padding="0 5px">
+      <mj-column>
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="45px 25px" src="https://shoptommy.scene7.com/is/image/ShopTommy/FC00030_ZQL_FNT?wid=1500&hei=2000&fmt=jpeg&qlt=90%2C0&resMode=trilin&op_usm=0.8%2C1.0%2C6%2C0&iccEmbed=0" target="_blank" title="" width="150px" height="150px"></mj-image>
+      </mj-column>
+      <mj-column padding="0 5px">
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="45px 25px" src="https://shoptommy.scene7.com/is/image/ShopTommy/EN01606_AEP_FNT?wid=1500&hei=2000&fmt=jpeg&qlt=90%2C0&resMode=trilin&op_usm=0.8%2C1.0%2C6%2C0&iccEmbed=0" target="_blank" title="" width="150px" height="150px"></mj-image>
+      </mj-column >
+      <mj-column padding="0 5px 0 0">
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="45px 25px" src="https://shoptommy.scene7.com/is/image/ShopTommy/FW05972_GVI_FNT?wid=1500&hei=2000&fmt=jpeg&qlt=90%2C0&resMode=trilin&op_usm=0.8%2C1.0%2C6%2C0&iccEmbed=0" target="_blank" title="" width="150px" height="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+      <mj-section  background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding-bottom="40px">
+      <mj-column width="70px">
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" target="_blank" title="" width="60px" height="40px"></mj-image>
+      
+      </mj-column>
+      <mj-column width="70px">
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="5px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" target="_blank" title="" width="30px" height="30px"></mj-image>
+      
+      </mj-column >
+      <mj-column width="70px">
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png" target="_blank" title="" width="40px" height="40px"></mj-image>
+      
+      </mj-column >
+   
+    </mj-section>
+     <mj-section background-color="#ffffff" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="5px" padding-top="0px" padding="0px 25px">
+          <p style="line-height: 20px; text-align: center;  margin: 0px 0 0 0;font-size:12px;color:#00000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">Save 40% sitewide. Use code FAMILY. Valid online only at Tommy.com through 10/18/19 at 11:59 pm PT. Not combinable with any other offers. Not applicable to TOMMYXROMEO, Tommy Revisited: Music Edition, Hilfiger Collection, previous purchases, shipping and handling charges, gift boxes, or applicable taxes.</p>
+          <p style="line-height: 20px; text-align: center;  margin: 10px 0 0 0;font-size:12px;color:#00000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">Free shipping on U.S. orders over $100 and free returns on all orders within 45 days of shipping confirmation. Offer automatically applied at checkout. Valid online on orders shipping within the U.S. only.</p>
+          <p style="line-height: 20px; text-align: center;  margin: 10px 0 0 0;font-size:12px;color:#00000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">© 2021 Tommy Hilfiger Licensing LLC. All Rights Reserved.</p>
+          <p style="line-height: 20px; text-align: center;  margin: 10px 0 0 0;font-size:12px;color:#00000;font-family:'Times New Roman',Helvetica,Arial,sans-serif">The sender of this email is Tommy Hilfiger U.S.A., Inc. can be reached by mailing 285 Madison Avenue, New York, NY 10017 or calling 1-888-TOMMY-4-U or visiting our site at tommy.com.</p>
+          <p style="line-height: 20px; text-align: center;  margin: 10px 0 0 0;font-size:12px;color:#00000;font-family:'Times New Roman',Helvetica,Arial,sans-serif"><u>Privacy Policy</u></p>
+          <p style="line-height: 20px; text-align: center;  margin: 10px 0 0 0;font-size:12px;color:#00000;font-family:'Times New Roman',Helvetica,Arial,sans-serif"><u>Unsubscribe</u></p>
+        </mj-text>
+      </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
